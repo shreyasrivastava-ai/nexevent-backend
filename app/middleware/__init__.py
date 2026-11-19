@@ -1,0 +1,1 @@
+"""Cross-cutting FastAPI middleware: authentication and RBAC."""
